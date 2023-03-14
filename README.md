@@ -1,1 +1,1 @@
-This is the Software engineering devops README file
+#0x03. Shell, init files, variables and expansions
